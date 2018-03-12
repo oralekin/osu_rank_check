@@ -1,0 +1,18 @@
+{
+  "name": "osu_rank_check",
+  "version": "0.1.0",
+  "description": "Asynchrounously checks if a osu! user's rank is in a range.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "osu",
+    "rank"
+  ],
+  "author": "oralekin",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
